@@ -1,0 +1,2 @@
+\x01\x03Key.alt_l	Key.alt_l		\x16
+Key.alt_l	Key.alt_l	
